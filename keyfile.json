@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "berkeley-free-food",
+  "private_key_id": "fb92c504a581afcf5833e467b9e89886b24a44f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCXBEFTA/aH9yS\nzQjpt8esRl0arj6SkFA0J4zW2vh8ZyKsqtdJYBaap4HWSMRWFbpI1HMyXO3ekqUF\nkMxamH2mx7f2sSXWMVd5XsVmwz/fpOpVxc5P/lgSXxp2+6oNHI7nnYtAmi3fl1/X\nSaOdxz2gAEqexE5Vk1mnjtM4kSZBPANaaVl9WPow3W7Tl0Qyab+eaaTD1VI9jZel\nIBRwQZccpX9abdsOLLRVjQjVuwchN5+PlMNHMYLZOeIipgI62/qucW0KvNGrWuR6\ndfqVIfxhCDk35kjPm96xWhuNeKcG4sOKtFh1dqFiAByIHooiFi85Kc9PAnlKvB28\nI8XpFbsFAgMBAAECggEACIBDZFJr3RQIr0kVizd1HdVkDB8z8HAseeOC9wDT3oka\nTKgaS4TO6EvMU4WSRNulbrsQINNMui/61M/9CDdkQ4+3vawI5iH5W/8nrjN7Dzqk\n30SMHhaXXpJXU331daZan8nVxekYeY+i6wU3CVcmHGH24ZPfg0GzKa+HEJHUtQSp\n4IaChjrWXpgjkAxSdaro0H6GwH+V0zUS13Z3IAaIks3pJ0wPTHe2xtYz+qBJpXjF\nMDQ/WTIkievNsVnH5rwfYgc4s4nB1/9Ya4S593vZiKd/Rl82/XRw8aiYFeRj8N8z\nBshtA9TLyUwZ8k2Vwhn9X++z17MIr8hcpkFMuVDRkQKBgQDzZIYbGdzDmNKoETsm\nCDybky9oHGeORvfb/uaEIyfwnSMDcX+iDUQ9YrUhNj/tWZXjzsT0T9xueQ4McbAV\nh8y5zVsNpPGesQnFOhWW3AfIxLRnbq5+K/IS27fg6v2epZkrlrLYSKzOeWuMjPgu\njl1yDx+9w2tGK2WD3Q20u0bp+QKBgQDMbVi5KkBeTBXWJedCHKhuchRNzIGEqafQ\nO0BuuOzDt1QMQcXB/7OHMrM3QYFqzZ9xGCkFoJ2TiztGVsMs6P/K72lz6kj/05XO\nkwR+UWNXx6OIYw0R+xn5usscLpsyxxXkwlrqYh8w/FPK7ru4FT1ztyNoLq1brzVX\nDxfxxuv8bQKBgE7J6LuXKKbMrsynH02VdwEpqTv7je45vPyjTD3UH5a9V1tC/30W\n7FMuw9GnfRQ5XtMq2Qj5XTMJzulqWATwO+6dsm79SRYE21PUFK8MNRzhyEB/TM8d\nLLS8GY8eotEbbDT3CJgJFp+UIKOT8rcncMp+aNkGDJDfdXI1Ob2arj8JAoGAfIop\nQTVCXbBQpVQWHSrEWfTZ9cOfLCkHeU5/pHS4mUt4wrbXOacDwlva3tDjfSOj/QxR\nAYKmPRrXk7SL1zJjk0hjoCCdNG28mErss9/1e6a+M/rUHZ4yZvergZHLLxYmemUF\nakE462jty3XBmxYlh/eMdI3rQy3sewtQ9RTQ88kCgYAXjgDU+R0ZeFjewgrMh628\nM5MohBEyRpxa+D8aLfYCrp+lmyjwB0bNUHuB7nCAKmLHapQlCEf7lbtc8U4Zct6A\nopNGeKPkd1HHFCv7e1EHUujcG2cLoaK4j+iClyViFUDoxywxOcW7PZjzpjtnQfaO\non11Mu6s6CGbR3CuBXFy6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "berkeley-free-food@appspot.gserviceaccount.com",
+  "client_id": "112885979873633788740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/berkeley-free-food%40appspot.gserviceaccount.com"
+}
